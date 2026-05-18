@@ -1,0 +1,4 @@
+interface:
+  display_name: "Phân Loại Từ Khóa SEO"
+  short_description: "Phân loại keyword theo intent và ưu tiên SEO"
+  default_prompt: "Use $classify-seo-keywords để phân loại danh sách từ khóa theo intent, giai đoạn phễu, loại SERP, cụm chủ đề và ưu tiên SEO."

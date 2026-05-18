@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bài Viết KNA"
+  short_description: "Format bài viết KNA thành HTML WordPress SEO"
+  default_prompt: "Use $bai-viet-kna to convert this KNA article into clean WordPress SEO HTML."

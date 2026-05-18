@@ -1,0 +1,4 @@
+﻿https://knacert.com.vn/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css
+https://knacert.com.vn/wp-content/cache/asset-cleanup/one/js/body-4392beeacfed10fe428a31b3f6acc759ca63e11a.js
+https://knacert.com.vn/wp-content/plugins/perfmatters/js/lazyload.min.js
+https://knacert.com.vn/wp-content/cache/asset-cleanup/one/js/body-c44a744ce33dce73d2e6d5bf0ea044b521fbbe16.js
