@@ -1,0 +1,76 @@
+﻿Thang điểm EcoVadis từ 0 đến 100 trông có vẻ đơn giản, nhưng đằng sau đó là một phương pháp luận phức tạp với 7 chỉ số quản lý, 3 lớp bằng chứng và hệ thống tỷ trọng thay đổi theo ngành. Đây là lý do hai doanh nghiệp cùng ngành, cùng quy mô nhưng có thể chênh nhau 20-30 điểm chỉ vì cách chuẩn bị và trình bày bằng chứng khác nhau. Bài viết này của KNA CERT giải mã toàn bộ cơ chế đó.
+Thang điểm EcoVadis được xây dựng trên 7 nguyên tắc nền tảng
+Trước khi đi vào cơ chế tính điểm, cần hiểu rằng toàn bộ phương pháp luận của thang điểm EcoVadis được xây dựng trên 7 nguyên tắc cốt lõi. Đây là kim chỉ nam cho mọi quyết định chấm điểm:
+Dựa trên bằng chứng: Trách nhiệm chứng minh thuộc về doanh nghiệp được đánh giá. Hệ thống quản lý bền vững phải để lại dấu vết: chính sách, chứng chỉ, báo cáo. Khai báo của doanh nghiệp chỉ được tính điểm khi có bằng chứng tài liệu kèm theo.
+Ngành nghề, địa điểm và quy mô đều quan trọng: Hệ thống quản lý bền vững được đánh giá có tính đến các vấn đề trọng yếu của ngành, sự hiện diện ở các quốc gia có rủi ro cao, quy mô và phạm vi địa lý của doanh nghiệp.
+Đa dạng nguồn thông tin: Đánh giá không chỉ dựa trên tài liệu doanh nghiệp cung cấp mà còn tích hợp quan điểm từ NGO, công đoàn, tổ chức quốc tế, cơ quan quản lý và các bên thứ ba như kiểm toán viên, CDP, cơ sở dữ liệu tuân thủ bên ngoài.
+Công nghệ là bắt buộc: Hệ thống đánh giá chỉ đáng tin cậy khi được hỗ trợ bởi công nghệ, cho phép chuẩn hóa, học hỏi nhanh và mở rộng quy mô.
+Đánh giá bởi chuyên gia bền vững quốc tế: Tài liệu được phân tích bởi đội ngũ chuyên gia từ khắp nơi trên thế giới, luôn cập nhật các thực hành tốt nhất về bền vững.
+Truy xuất và minh bạch: Mọi tài liệu trong quy trình đánh giá đều được lưu trữ an toàn và có thể truy xuất. Doanh nghiệp được đánh giá có thể tiếp cận kết quả chi tiết và từng quyết định chấm điểm.
+Xuất sắc qua cải tiến liên tục: Phương pháp luận được mở cho kiểm soát chất lượng, cải tiến liên tục và phản hồi từ các bên liên quan.
+Nguyên tắc đầu tiên, “Dựa trên bằng chứng”, là nguyên tắc quan trọng nhất cần ghi nhớ: bảng câu hỏi chỉ là công cụ thu thập tài liệu, không phải căn cứ duy nhất để chấm điểm. Không có bằng chứng tài liệu kèm theo đồng nghĩa với điểm 0, dù doanh nghiệp đang làm tốt trong thực tế.
+Ba lớp bằng chứng ESG trong thang điểm EcoVadis
+Thang điểm EcoVadis đánh giá doanh nghiệp dựa theo 3 lớp bằng chứng, là nền tảng của hầu hết các hệ thống quản lý.
+Lớp 1 – Chính sách, trọng số 25%
+Lớp này đặt câu hỏi: “Doanh nghiệp có cam kết bằng văn bản không?”
+POLI (80%): Chính sách, mục tiêu, chỉ tiêu và quản trị.
+ENDO (20%): Tham gia hoặc ký kết các sáng kiến CSR bên ngoài như UN Global Compact, ISO 26000.
+Điểm POLI được chấm dựa trên mức độ cụ thể của cam kết, từ tuyên bố chung chung đến mục tiêu định lượng có thời hạn. Ví dụ:
+“Chúng tôi phấn đấu cải thiện hiệu suất môi trường” là tuyên bố chung, thường có điểm thấp.
+“Công ty cam kết giảm tác động môi trường bằng cách sử dụng vật liệu tái chế” là mục tiêu định tính, có điểm cao hơn.
+“Chúng tôi cam kết sử dụng 75% vật liệu tái chế trong sản xuất vào năm 2025” là mục tiêu định lượng, có điểm cao nhất.
+Để đạt điểm tối đa 100 cho POLI, doanh nghiệp cần đặt mục tiêu định tính cho tất cả tiêu chí được kích hoạt, mục tiêu định lượng cho các tiêu chí quan trọng, và có ít nhất hai trong ba yếu tố: quản trị rõ ràng, cơ chế xem xét định kỳ, phạm vi áp dụng được xác định.
+Lớp 2 – Hành động, trọng số 40%
+Lớp này đặt câu hỏi: “Doanh nghiệp đã triển khai gì trong thực tế?”
+MESU (65%): Các hành động cụ thể được triển khai để hỗ trợ chính sách và mục tiêu.
+CERT (35%): Chứng chỉ hệ thống quản lý, nhãn hiệu và kiểm toán bên thứ ba.
+COVE: Nhân tố nhân, phản ánh mức độ triển khai của các hành động trên toàn bộ tổ chức.
+MESU được chấm theo ma trận kết hợp giữa số lượng hành động hợp lệ và tỷ lệ tiêu chí được kích hoạt có bằng chứng.
+CERT ghi nhận các chứng chỉ quốc tế được cấp bởi tổ chức độc lập, được công nhận và còn hiệu lực. Ví dụ: ISO 14001 cho trụ cột Môi trường, ISO 45001 cho Lao động, ISO 27001 cho Đạo đức, SA8000 cho cả Lao động và Mua sắm bền vững.
+COVE là nhân tố đặc biệt, không có điểm 0 vì đây là hệ số nhân. Chỉ số này áp dụng cho doanh nghiệp lớn có nhiều địa điểm, đánh giá xem các hành động và chứng chỉ đã được triển khai đồng đều trên toàn tổ chức chưa, từ Low Coverage 25 đến Very High Coverage 100.
+Nhận Lộ Trình Chi Tiết
+Lớp 3 – Kết quả, trọng số 35%
+Lớp này đặt câu hỏi: “Có dữ liệu đo lường được chứng minh hiệu quả không?”
+REPO (40%): Chất lượng báo cáo công khai về hiệu suất bền vững.
+360° Watch (60%): Quan điểm từ các bên liên quan bên ngoài như cơ quan quản lý, tòa án, công đoàn, NGO.
+REPO được chấm dựa trên tính kịp thời trong vòng 2 năm gần nhất, mức độ bao phủ tiêu chí, khả năng tiếp cận công khai và mức độ phù hợp với chuẩn báo cáo quốc tế như GRI, TCFD hoặc có xác minh bên thứ ba độc lập.
+360° Watch là chỉ số đặc biệt nhất vì phản ánh hành vi thực tế của doanh nghiệp từ góc nhìn bên ngoài. Thang điểm của chỉ số này hoạt động ngược chiều so với các chỉ số khác:
+0: Có ít nhất 1 sự cố nghiêm trọng, chẳng hạn vi phạm lớn với mức phạt nặng.
+25: Có sự cố lớn với chế tài tài chính.
+50: Có sự cố nhỏ với phạt hành chính.
+75: Không có sự cố đáng kể, đây là mức mặc định.
+100: Có nhiều ghi nhận tích cực hoặc giải thưởng CSR.
+Lưu ý quan trọng: điểm 360° chỉ có thể tăng lên trên mức mặc định 75 khi không có bất kỳ sự cố tiêu cực nào. Đây là lý do 360° Watch ảnh hưởng mạnh đến điều kiện nhận huy chương.
+Thang điểm EcoVadis thay đổi theo ngành nghề
+Điểm tổng thể EcoVadis được tạo bởi trọng số của 4 điểm trụ cột, và trọng số này khác nhau theo ngành, quy mô và địa điểm hoạt động của doanh nghiệp.
+Dưới đây là ví dụ minh họa so sánh hai ngành:
+Có thể thấy, với một doanh nghiệp vận tải, trụ cột Môi trường và Lao động chiếm tới 66% tổng điểm. Đây phải là nơi doanh nghiệp cần tập trung nguồn lực để cải thiện đầu tiên. Trong khi đó, doanh nghiệp IT cần phân bổ đồng đều hơn vì trọng số 4 trụ cột tương đối cân bằng.
+Ngoài ra, tiêu chí nào được kích hoạt trong bộ câu hỏi cũng phụ thuộc vào ngành. Bởi vậy, doanh nghiệp cần hiểu rõ tiêu chí nào ảnh hưởng nhiều tới doanh nghiệp mình khi bắt đầu chuẩn bị.
+Ví dụ: Tiêu chí Đa dạng sinh học và Ô nhiễm có thể không được kích hoạt với doanh nghiệp IT nhưng lại là tiêu chí bắt buộc với doanh nghiệp sản xuất nhựa.
+Ý nghĩa của các vùng điểm trong thang điểm EcoVadis
+Tài liệu chính thức EcoVadis định nghĩa thang điểm tổng thể theo 5 vùng, áp dụng cho cả điểm trụ cột lẫn điểm tổng:
+0-24 điểm – Insufficient (Không đủ): Rủi ro cao. Không có bằng chứng về chính sách hay hành động bền vững. Trong một số trường hợp, có bằng chứng về hành vi sai phạm như ô nhiễm hoặc tham nhũng. Đây là vùng rủi ro cao nhất trong mắt nhà mua hàng.
+25-44 điểm – Partial (Một phần): Rủi ro trung bình. Có một số tiếp cận bền vững tối thiểu nhưng chủ yếu là phản ứng thụ động. Có một số chính sách hoặc hành động riêng lẻ trên một số vấn đề nhất định. Đây là vùng mà nhiều doanh nghiệp Việt Nam lần đầu đánh giá rơi vào.
+45-64 điểm – Good (Tốt): Có cam kết. Có tiếp cận bền vững có cấu trúc và chủ động. Có chính sách và hành động cụ thể trên các vấn đề chính. Có báo cáo cơ bản về hành động hoặc KPI. Đây là vùng doanh nghiệp đủ điều kiện nhận Huy hiệu Cam kết và tiệm cận Huy chương Đồng/Bạc.
+65-84 điểm – Advanced (Tiên tiến): Cơ hội trung bình. Tiếp cận bền vững có cấu trúc và chủ động rõ rệt. Chính sách và hành động chi tiết trên tất cả vấn đề chính. Báo cáo đáng kể về hành động và KPI hiệu suất. Vùng này tương ứng với doanh nghiệp tiệm cận Huy chương Vàng.
+85-100 điểm – Outstanding (Xuất sắc): Cơ hội cao. Đây là nhóm doanh nghiệp làm rất tốt, có tiếp cận chủ động và toàn diện với đổi mới bền vững, báo cáo đầy đủ kèm xác minh bên thứ ba, được công nhận bên ngoài về hiệu suất bền vững. Đây là vùng của Huy chương Bạch Kim, thuộc top 1% toàn cầu.
+Cơ chế tính điểm tổng theo thang điểm EcoVadis
+Quy trình tính điểm diễn ra theo 4 bước tuần tự:
+Bước 1: Mỗi chỉ số quản lý như POLI, ENDO, MESU, CERT, COVE, REPO và 360° được chấm điểm từ 0-100 dựa trên hướng dẫn chấm điểm nghiêm ngặt, xem xét tỷ lệ tiêu chí được giải quyết và tầm quan trọng tương đối của từng tiêu chí.
+Bước 2: Điểm từng trụ cột được tính từ điểm các chỉ số quản lý theo trọng số cố định: Chính sách 25% (POLI 80% + ENDO 20%), Hành động 40% (MESU 65% + CERT 35%, nhân với COVE), Kết quả 35% (REPO 40% + 360° Watch 60%).
+Bước 3: Điểm tổng thể là trung bình có trọng số của 4 điểm trụ cột, với trọng số phụ thuộc vào ngành, quy mô và địa điểm của doanh nghiệp.
+Bước 4: Điểm tổng thể được làm tròn đến số nguyên gần nhất; điểm trụ cột được làm tròn đến một chữ số thập phân.
+Ví dụ: Doanh nghiệp sản xuất máy móc, quy mô lớn, hoạt động tại quốc gia có rủi ro:
+Môi trường, trọng số 28%: 60 điểm.
+Lao động & Nhân quyền, trọng số 36%: 50 điểm.
+Đạo đức, trọng số 18%: 40 điểm.
+Mua sắm bền vững, trọng số 18%: 60 điểm.
+Điểm tổng: 49/100.
+Trường hợp này minh họa rõ tầm quan trọng của tỷ trọng ngành: dù điểm Lao động & Nhân quyền chỉ ở mức trung bình 50, nhưng vì chiếm trọng số 36%, cao nhất trong 4 trụ cột, nên chỉ số này kéo điểm tổng xuống đáng kể.
+Bí kíp để tăng lên mức điểm EcoVadis cao hơn
+Với POLI: Để tăng từ 25 lên 50, cần bổ sung mục tiêu định tính cho hơn 2/3 tiêu chí được kích hoạt. Để tăng từ 50 lên 75, cần thêm mục tiêu định lượng và ít nhất một trong ba yếu tố: quản trị, cơ chế xem xét hoặc phạm vi áp dụng.
+Với MESU: Điểm tăng rõ nhất khi doanh nghiệp nâng số hành động hợp lệ từ 1-3 lên 4+ đồng thời đảm bảo coverage từ 66% tiêu chí được kích hoạt trở lên. Đây là cách nhanh nhất để đưa điểm MESU từ 50-75 lên 100.
+Với REPO: Bước tăng từ 50 lên 75 đòi hỏi báo cáo phải công khai, không chỉ lưu hành nội bộ, và phù hợp với chuẩn báo cáo quốc tế như GRI hoặc có xác minh bên thứ ba độc lập. Đây là điểm mà nhiều doanh nghiệp bỏ lỡ vì có dữ liệu nhưng không công khai đúng cách.
+Với 360° Watch: Không có cách tăng điểm trực tiếp. Doanh nghiệp chỉ có thể duy trì ở 75 nếu không có sự cố, hoặc được nâng lên 100 nếu có nhiều ghi nhận tích cực từ bên ngoài. Quan trọng hơn, doanh nghiệp cần tránh để điểm rơi xuống dưới 75 vì điều đó ảnh hưởng trực tiếp đến điều kiện nhận huy chương.
+Doanh nghiệp hiểu đúng cơ chế chấm điểm EcoVadis sẽ biết cần tập trung vào đâu, cần bổ sung gì và kỳ vọng điểm số nào là thực tế. KNA CERT, đối tác chính thức của EcoVadis tại Việt Nam, sẵn sàng đồng hành giải mã và tối ưu thang điểm EcoVadis cùng doanh nghiệp. Nếu doanh nghiệp cần lộ trình triển khai, xem thêm dịch vụ tư vấn EcoVadis của KNA CERT. Liên hệ KNA CERT qua Hotline: 0983.246.419 hoặc Email: salesmanager@knacert.com để được đào tạo và hỗ trợ về EcoVadis.
+Nhận Lộ Trình Chi Tiết

@@ -1,0 +1,237 @@
+TỪ KHÓA CHÍNH: Đánh giá TISAX
+
+TỪ KHÓA PHỤ: Đánh giá TISAX là gì, Báo cáo TISAX, Nhãn TISAX
+
+Đánh giá TISAX: Quy trình, Kết quả đầu ra & Những điều cần biết
+
+Meta Description: Đánh giá TISAX gồm 3 cấp độ AL1, AL2, AL3 với quy trình và chi phí khác nhau. KNA CERT hỗ trợ doanh nghiệp chuẩn bị hồ sơ để đạt nhãn TISAX hiệu quả.
+
+Nhiều doanh nghiệp trong ngành ô tô biết mình cần nhãn TISAX để ký hợp đồng với đối tác OEM — nhưng không rõ đánh giá TISAX thực sự diễn ra như thế nào. Bài viết này của KNA CERT giải đáp từ A-Z về quá trình đánh giá TISAX — Tiêu chuẩn an toàn thông tin trong nghành ô tô.
+
+Đánh giá TISAX là gì?
+
+Đánh giá TISAX là quá trình kiểm toán độc lập, được thực hiện bởi tổ chức đánh giá được ENX Association công nhận, nhằm xác minh rằng hệ thống quản lý an ninh thông tin (ISMS) của doanh nghiệp trong ngành ô tô đáp ứng các yêu cầu trong bộ tiêu chí VDA ISA (Information Security Assessment) — tương ứng với mục tiêu đánh giá và cấp độ kiểm toán mà doanh nghiệp đã đăng ký.
+
+Đánh giá TISAX là một chu kỳ liên tục: đánh giá ban đầu → cấp nhãn → duy trì ISMS → tái đánh giá sau 3 năm. Trong suốt chu kỳ đó, doanh nghiệp có thể bị đánh giá theo dõi nếu có lỗi không phù hợp chưa khắc phục hoặc theo yêu cầu của đối tác.
+
+Điểm tạo ra giá trị cốt lõi của đánh giá TISAX là cơ chế "đánh giá một lần, dùng nhiều nơi": kết quả đánh giá được đăng tải trên nền tảng ENX Exchange và có thể chia sẻ với bất kỳ đối tác OEM nào trong hệ sinh thái TISAX — thay vì phải lặp lại kiểm toán riêng lẻ cho từng khách hàng.
+
+Báo cáo TISAX là gì?
+
+Sau khi hoàn thành đánh giá, tổ chức đánh giá phát hành Báo cáo đánh giá TISAX (TISAX Report) — tài liệu chính thức ghi lại toàn bộ kết quả kiểm toán. Báo cáo này được cập nhật và mở rộng sau mỗi lần đánh giá tiếp theo trong cùng một chu kỳ.
+
+Báo cáo TISAX có cấu trúc phân cấp, cho phép chia sẻ có chọn lọc:
+
+[TABLE]
+
+Cấp | Nội dung | Mức độ chi tiết
+
+A | Thông tin liên quan đến đánh giá: tên công ty, phạm vi, mã đánh giá, cấp độ AL, ngày đánh giá, tên tổ chức kiểm toán | Không có kết quả
+
+A + Labels | Nhãn TISAX đã được cấp | Kết quả tóm tắt
+
+A + Labels + B | Tóm tắt kết quả: số lỗi phát hiện, phân loại rủi ro tổng thể | Kết quả trung bình
+
+A + Labels + B + C | Kết quả theo từng chương VDA ISA và từng danh mục tiêu chí | Kết quả chi tiết theo nhóm
+
+A + Labels + B + C + D | Kết quả đánh giá chi tiết | Kết quả đầy đủ
+
+A + Labels + B + C + D + E | Các cấp độ trưởng thành theo ISA | Toàn bộ báo cáo
+
+* Khuyến nghị: Mức chia sẻ "A + Labels" là đủ cho phần lớn đối tác OEM. Doanh nghiệp luôn có thể nâng cấp mức chia sẻ cao hơn — nhưng không thể thu hồi thông tin đã chia sẻ. Nên cân nhắc kỹ trước khi chia sẻ cấp D hoặc E, vì chúng bao gồm chi tiết các lỗi và điểm yếu bảo mật.
+
+Nhãn TISAX là gì?
+
+Nhãn TISAX (TISAX Label) là kết quả cuối cùng của quá trình đánh giá — bằng chứng được công nhận trong toàn ngành ô tô, xác nhận rằng doanh nghiệp đáp ứng các yêu cầu bảo mật thông tin tương ứng với mục tiêu đánh giá đã đăng ký.
+
+Nhãn TISAX có ba đặc điểm quan trọng:
+
+Nhãn TISAX gắn với địa điểm, không gắn với công ty toàn bộ: Nếu công ty có 3 nhà máy xử lý thông tin nhạy cảm của OEM thì cả 3 địa điểm cần được đánh giá và nhận nhãn dán riêng.
+
+Nhãn dán TISAX có thời hạn 3 năm: Sau 3 năm, doanh nghiệp phải thực hiện tái đánh giá để duy trì hiệu lực.
+
+Nhãn TISAX không tự động nâng cấp: Muốn chuyển từ AL2 lên AL3, doanh nghiệp phải bắt đầu lại quy trình đánh giá với cấp độ mới. Đây là lý do nhiều doanh nghiệp chọn thực hiện AL 2.5 hoặc AL3 ngay từ đầu nếu dự đoán sẽ cần cấp độ này trong tương lai gần.
+
+Nhãn TISAX được phân loại theo mục tiêu đánh giá, ví dụ:
+
+Info High / Info Very High: Bảo mật thông tin nhạy cảm hoặc cực kỳ nhạy cảm
+
+Confidential / Strictly Confidential: Thông tin bí mật hoặc tuyệt mật
+
+Prototype Parts / Prototype Vehicles: Bảo vệ linh kiện hoặc xe nguyên mẫu
+
+High Availability / Very High Availability: Yêu cầu tính sẵn sàng cao của hệ thống
+
+Data / Special Data: Tuân thủ GDPR với dữ liệu cá nhân thông thường hoặc đặc biệt
+
+3 Mức độ đánh giá TISAX
+
+Cấp độ đánh giá (Assessment Level — AL) xác định mức độ nghiêm ngặt của kiểm toán, tương ứng với mức độ nhạy cảm của thông tin mà doanh nghiệp xử lý. Chỉ AL2 và AL3 mới tạo ra nhãn TISAX chính thức.
+
+1. AL1 — Tự đánh giá (Self-Assessment)
+
+AL1 là cấp độ cơ bản nhất: doanh nghiệp tự hoàn thành bảng câu hỏi VDA ISA mà không có kiểm toán viên bên ngoài xác minh. Kiểm toán viên chỉ kiểm tra sự tồn tại của bản tự đánh giá đã hoàn thành — không đánh giá nội dung.
+
+Đánh giá AL1 không đủ điều kiện cấp nhãn TISAX và kết quả có độ tin cậy thấp trong hệ thống ENX. Tuy nhiên, một số đối tác OEM có thể chấp nhận kết quả tự đánh giá AL1 ngoài hệ thống TISAX chính thức. AL1 cũng là điểm khởi đầu tốt để doanh nghiệp tự đánh giá mức độ sẵn sàng trước khi bước vào AL2 hoặc AL3.
+
+2. AL2 — Kiểm toán xác minh từ xa (Remote Assessment)
+
+AL2 yêu cầu kiểm toán viên được ENX công nhận thực hiện kiểm tra tính hợp lý của bản tự đánh giá — bao gồm xem xét tài liệu và phỏng vấn qua video hội nghị. AL2 phù hợp với doanh nghiệp xử lý thông tin nhạy cảm mức cao (ví dụ: quy trình sản xuất bí mật, dữ liệu khách hàng OEM).
+
+* Lưu ý: Có một biến thể đánh giá khác là AL2.5 — kiểm toán viên thực hiện đánh giá từ xa toàn diện thay vì chỉ kiểm tra tính hợp lý. Ưu điểm là hoàn toàn tương thích với AL3, giúp doanh nghiệp muốn nâng cấp lên AL3 sau này chỉ cần bổ sung phần kiểm tra tại chỗ. AL2.5 được khuyến nghị khi doanh nghiệp dự đoán có thể cần AL3 trong tương lai gần.
+
+3. AL3 — Kiểm toán toàn diện tại chỗ (On-Site Assessment)
+
+AL3 là cấp độ nghiêm ngặt nhất, áp dụng cho doanh nghiệp xử lý thông tin có độ nhạy cảm rất cao — điển hình là bảo vệ xe nguyên mẫu, thiết kế sản phẩm mật, hoặc thông tin tuyệt mật. Ngoài xem xét tài liệu và phỏng vấn, kiểm toán viên bắt buộc phải đến trực tiếp địa điểm để:
+
+Kiểm tra tài liệu và thu thập bằng chứng thực tế
+
+Phỏng vấn trực tiếp người phụ trách quy trình
+
+Quan sát điều kiện an ninh vật lý tại chỗ
+
+Phỏng vấn đột xuất nhân viên tham gia quy trình
+
+Bảng so sánh 3 cấp độ đánh giá
+
+[TABLE]
+
+Tiêu chí | AL1 | AL2 | AL3
+
+Phương thức | Tự đánh giá | Kiểm toán từ xa | Kiểm toán tại chỗ
+
+Xác minh tài liệu | Không | Kiểm tra tính hợp lý | Rà soát toàn diện + thu thập bằng chứng
+
+Phỏng vấn | Không | Qua video conference | Trực tiếp tại chỗ + đột xuất
+
+Kiểm tra thực địa | Không | Theo yêu cầu | Bắt buộc
+
+Tạo nhãn TISAX | Không | Có | Có
+
+Tần suất tái đánh giá | — | 3 năm/lần | 3 năm/lần (có thể có đánh giá theo dõi)
+
+Hiệu lực nhãn | — | Tối đa 3 năm | Tối đa 3 năm
+
+Phù hợp với | Chuẩn bị nội bộ | Thông tin nhạy cảm mức cao | Thông tin nhạy cảm mức rất cao, nguyên mẫu
+
+12 Mục tiêu đánh giá TISAX
+
+Mục tiêu đánh giá xác định loại thông tin và lĩnh vực bảo mật cụ thể cần được kiểm toán. Doanh nghiệp phải chọn ít nhất một mục tiêu — và có thể chọn nhiều mục tiêu cùng lúc nếu phù hợp với thực tế hoạt động.
+
+[TABLE]
+
+STT | Mục tiêu | Mô tả | Phù hợp với | Cấp độ AL | Danh mục VDA ISA
+
+1 | Thông tin cao | Xử lý thông tin với nhu cầu bảo mật cao | DN nhận tài liệu phân loại "Bảo mật" từ OEM | AL2 | Bảo mật thông tin
+
+2 | Thông tin rất cao | Xử lý thông tin với nhu cầu bảo mật rất cao | DN nhận tài liệu "Tuyệt mật" | AL3 | Bảo mật thông tin
+
+3 | Bí mật | Thông tin nhạy cảm cao trong bối cảnh bí mật | DN xử lý thông tin có thể gây thiệt hại đáng kể nếu lộ | AL2 | Bảo mật thông tin
+
+4 | Tuyệt mật | Thông tin nhạy cảm rất cao trong bối cảnh bí mật | DN xử lý thông tin có thể gây thiệt hại đe dọa sự tồn tại nếu lộ | AL3 | Bảo mật thông tin
+
+5 | Khả năng sẵn có cao | Thông tin yêu cầu tính sẵn sàng cao | Nhà cung cấp Just-in-time (JIT)— gián đoạn gây thiệt hại đáng kể cho khách hàng | AL2 | Bảo mật thông tin
+
+6 | Khả năng sẵn có rất cao | Thông tin yêu cầu tính sẵn sàng rất cao | Nhà cung cấp JIT — gián đoạn ngắn có thể dừng toàn bộ dây chuyền OEM | AL3 | Bảo mật thông tin
+
+7 | Bộ phận nguyên mẫu | Bảo vệ linh kiện và bộ phận nguyên mẫu | DN sản xuất, lưu trữ, sử dụng linh kiện nguyên mẫu của OEM | AL3 | Bảo vệ nguyên mẫu
+
+8 | Xe nguyên mẫu | Bảo vệ phương tiện nguyên mẫu | DN lưu giữ hoặc vận hành xe nguyên mẫu của OEM | AL3 | Bảo vệ nguyên mẫu
+
+9 | Xe thử nghiệm | Vận hành xe thử nghiệm trên đường công cộng hoặc đường thử | DN thực hiện lái thử với xe nguyên mẫu | AL2 | Bảo vệ nguyên mẫu
+
+10 | Sự kiện nguyên mẫu | Bảo vệ nguyên mẫu trong sự kiện, quay phim, chụp ảnh | DN thực hiện sự kiện marketing, nghiên cứu thị trường với phương tiện nguyên mẫu | AL2 | Bảo vệ nguyên mẫu
+
+11 | Dữ liệu | Bảo vệ dữ liệu cá nhân theo Điều 28 GDPR | DN xử lý dữ liệu cá nhân thông thường với tư cách bên xử lý | AL2 | Bảo vệ dữ liệu
+
+12 | Dữ liệu đặc biệt | Bảo vệ dữ liệu cá nhân đặc biệt theo Điều 9 GDPR | DN xử lý dữ liệu sức khỏe, tôn giáo, sinh trắc học... | AL3 | Bảo vệ dữ liệu
+
+* Lưu ý: Từ ngày 01/04/2024, mục tiêu "Bí Mật" và "Tuyệt Mật" chính thức thay thế các mục tiêu "Thông tin Cao" và "Thông tin Rất Cao". Doanh nghiệp đang xem xét đăng ký cần xác nhận mục tiêu phù hợp với phiên bản VDA ISA hiện hành.
+
+Quy trình đánh giá TISAX đầy đủ (10 Bước)
+
+Bước 1: Nhận yêu cầu từ đối tác OEM
+
+Quy trình thường bắt đầu khi đối tác yêu cầu doanh nghiệp chứng minh khả năng quản lý an ninh thông tin theo VDA ISA. Hợp đồng thường ghi rõ mục tiêu đánh giá và cấp độ AL cần đạt. Nếu chưa rõ, cần xác nhận trực tiếp với đối tác trước khi tiến hành bất kỳ bước nào.
+
+Bước 2: Tự đánh giá theo VDA ISA
+
+Doanh nghiệp hoàn thành bản tự đánh giá dựa trên bộ câu hỏi VDA ISA. Đây là bước bắt buộc ở mọi cấp độ đánh giá và là nền tảng cho toàn bộ quy trình. VDA ISA phân loại mức độ trưởng thành trên thang 0–5; đa số yêu cầu cần đạt tối thiểu mức 3 để vượt qua đánh giá chính thức. Trong đó:
+
+Mức 0: Chưa hoàn chỉnh
+
+Mức 1: Đã thực hiện
+
+Mức 2: Được quản lý
+
+Mức 3: Đã được thiết lập
+
+Mức 4: Có thể dự đoán được
+
+Mức 5: Tối ưu hóa
+
+Bước 3: Đăng ký trên cổng ENX Portal
+
+Doanh nghiệp tạo tài khoản tổ chức tham gia TISAX trên cổng ENX. Trong bước này, doanh nghiệp khai báo mục tiêu đánh giá và danh sách địa điểm cần chứng nhận.
+
+Bước 4: Xác định phạm vi đánh giá
+
+Phạm vi đánh giá TISAX có thể nhỏ hơn phạm vi ISMS của doanh nghiệp, nhưng phải nằm trong phạm vi đó. Xác định rõ: những hệ thống nào, quy trình nào, địa điểm nào và đội ngũ nào sẽ nằm trong phạm vi kiểm toán.
+
+Bước 5: Lựa chọn tổ chức kiểm toán được ENX công nhận
+
+Chỉ các tổ chức đánh giá được ENX chính thức công nhận mới được phép thực hiện đánh giá tạo ra nhãn TISAX. Hãy liên hệ, ký hợp đồng và lên lịch đánh giá.
+
+Bước 6: Đánh giá giai đoạn 1 — Xem xét tài liệu
+
+Kiểm toán viên xem xét bản tự đánh giá và tài liệu ISMS của doanh nghiệp. Đây là giai đoạn kiểm tra tính đầy đủ và nhất quán của hồ sơ trước khi đánh giá chính thức.
+
+Bước 7: Đánh giá giai đoạn 2 — Kiểm toán chính thức
+
+Tùy cấp độ đánh giá, giai đoạn này bao gồm:
+
+AL2: Phỏng vấn qua video hội nghị, xem xét bằng chứng từ xa
+
+AL3: Kiểm tra thực địa, phỏng vấn trực tiếp, phỏng vấn đột xuất, quan sát quy trình thực thi
+
+Bước 8: Khắc phục lỗi không phù hợp
+
+Nếu kiểm toán viên phát hiện lỗi, doanh nghiệp có tối đa 9 tháng để thực hiện biện pháp khắc phục. Có 4 loại phát hiện cần phân biệt:
+
+[TABLE]
+
+Loại phát hiện | Mức độ | Yêu cầu xử lý
+
+Lỗi nghiêm trọng (Major Nonconformity) | Tạo rủi ro tức thời hoặc nghi ngờ hiệu quả toàn bộ ISMS | Xử lý ngay lập tức bằng biện pháp bù đắp, sau đó khắc phục triệt để
+
+Lỗi nhỏ (Minor Nonconformity) | Không tạo rủi ro tức thời đáng kể | Thực hiện biện pháp khắc phục không chậm trễ
+
+Quan sát (Observation) | Hành vi không tuân thủ, chưa gây rủi ro ngay | Điều tra, giám sát và quyết định cách xử lý
+
+Cần cải thiện (Improvement Potential) | Sai lệch không gây rủi ro nhưng có thể tốt hơn | Doanh nghiệp tự quyết định có xử lý hay không
+
+Bước 9: Nhận nhãn TISAX và Chia sẻ kết quả
+
+Khi đánh giá hoàn tất với kết quả "Đạt yêu cầu" hoặc "Lỗi nhỏ" (kèm kế hoạch khắc phục được phê duyệt), nhãn TISAX được cấp trên nền tảng ENX. Doanh nghiệp kiểm soát hoàn toàn việc chia sẻ — cần ID người tham gia của đối tác để chia sẻ kết quả.
+
+Với kết quả "Lỗi nhỏ", doanh nghiệp nhận nhãn TISAX tạm thời (hiệu lực tối đa 9 tháng) — được phần lớn đối tác OEM chấp nhận trong khi chờ khắc phục hoàn tất.
+
+Bước 10: Đánh giá theo dõi và duy trì
+
+Duy trì ISMS trong suốt 3 năm hiệu lực của nhãn: thực hiện kiểm toán nội bộ định kỳ, cập nhật chính sách bảo mật theo VDA ISA phiên bản mới, và lên kế hoạch tái đánh giá trước khi nhãn hết hạn.
+
+Câu hỏi thường gặp về Đánh giá TISAX
+
+1. Doanh nghiệp Việt Nam có thể đăng ký đánh giá TISAX không?
+
+Có. Chứng nhận TISAX áp dụng toàn cầu — không giới hạn địa lý. Bất kỳ doanh nghiệp nào tham gia chuỗi cung ứng ô tô và xử lý thông tin nhạy cảm của OEM đều có thể và cần thực hiện đánh giá TISAX, bất kể đặt trụ sở ở đâu.
+
+2. Nếu không vượt qua đánh giá lần đầu thì sao?
+
+Doanh nghiệp có 9 tháng để khắc phục lỗi. Với lỗi nhỏ, có thể nhận nhãn tạm thời trong thời gian khắc phục. Với lỗi nghiêm trọng, cần xử lý trước khi được cấp bất kỳ nhãn nào. Sau khi khắc phục, tổ chức kiểm toán thực hiện đánh giá theo dõi để xác nhận.
+
+3. Một công ty nhiều địa điểm cần bao nhiêu chứng nhận?
+
+Mỗi địa điểm tham gia xử lý thông tin nhạy cảm của OEM cần được đánh giá và chứng nhận riêng. Tuy nhiên, nếu các địa điểm có ISMS được quản lý tập trung và nhất quán, quá trình đánh giá các địa điểm tiếp theo thường nhanh và ít tốn kém hơn địa điểm đầu tiên.
+
+----------------------------------------------------------------------------------------------------Nếu doanh nghiệp của bạn đang gặp khó khăn trong quá trình triển khai đánh giá tiêu chuẩn TISAX, vui lòng liên hệ với KNA CERT qua số Hotline: 0983.246.419 hoặc Email: salesmanager@knacert.com để được hỗ trợ.

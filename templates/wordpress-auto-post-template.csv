@@ -1,0 +1,2 @@
+Row,Publish Action,WP Status,Post Type,Post ID,Title,Slug,Content HTML,Excerpt,Categories,Tags,Featured Media ID,Meta Title,Meta Description,WP URL,Publish Status,Error,Last Run,Notes
+1,skip,draft,posts,,Bài mẫu không đăng,bai-mau-khong-dang,"<h2>Tiêu đề phụ</h2><p>Nội dung bài viết dạng HTML. Khi nhập bài thật, đổi Publish Action thành create hoặc pending.</p>","Mô tả ngắn của bài mẫu.",,,,,,,skipped,,,Dòng mẫu. Dữ liệu thật nhập từ dòng 3 trở xuống.

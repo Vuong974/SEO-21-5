@@ -40,12 +40,14 @@ Apply these inline styles after structure and language checks:
 <a style="color: #1e3255; text-decoration: underline;">
 ```
 
-Do not add inline style to `<h1>`, `<li>`, or `<strong>`.
+Do not output `<h1>` in the HTML body. WordPress uses the post title as the page H1.
+Do not add inline style to `<li>` or `<strong>`.
 
 ## Workflow For Raw Text
 
 1. Map the article into HTML:
-   - Main title -> exactly one `<h1>`.
+   - Main title -> output as `ARTICLE TITLE`, not inside the HTML body.
+   - HTML body must not contain `<h1>`.
    - Major sections -> `<h2>`.
    - Subsections inside an H2 -> `<h3>` only when useful.
    - Paragraphs -> `<p>`.
@@ -54,7 +56,7 @@ Do not add inline style to `<h1>`, `<li>`, or `<strong>`.
    - `[ẢNH: mô tả]` markers -> `<figure>`.
 
 2. Optimize headings:
-   - H1 contains the main keyword, is 50-80 characters when feasible, and has no final punctuation.
+   - ARTICLE TITLE contains the main keyword, is 50-80 characters when feasible, and has no final punctuation.
    - H2 represents major topics, ideally contains the main keyword or LSI keyword, is 5+ words and <= 70 characters.
    - Use H3 only for supporting ideas under an H2.
 
@@ -131,7 +133,8 @@ Perform the raw-text workflow after this cleanup pass:
    - Preserve required attributes: `src`, `alt`, `href`, `title`, `width`, `height`, `loading`.
 
 2. Normalize structure:
-   - Ensure exactly one H1.
+   - Remove all `<h1>` tags from the HTML body.
+   - Move the main H1 text into `ARTICLE TITLE`.
    - Use H2 for major sections and H3 for smaller subsections.
    - Merge fragmented `<p>` elements only when clearly the same paragraph.
    - Convert `<p>• item</p>` or `<p>- item</p>` patterns into proper lists.
@@ -168,11 +171,12 @@ Generate the slug from the main keyword: lowercase, Vietnamese accents removed, 
 
 Return exactly these four parts in order:
 
-1. **HTML body**: complete cleaned/formatted HTML, including `[kna_link]`.
-2. **META SEO** block.
-3. **CHECKLIST ON-PAGE** with `[x/o]` marks:
-   - H1 contains main keyword.
-   - H1 appears once.
+1. **ARTICLE TITLE**: WordPress post title only, no HTML tags.
+2. **HTML body**: complete cleaned/formatted HTML, including `[kna_link]`, and no `<h1>`.
+3. **META SEO** block.
+4. **CHECKLIST ON-PAGE** with `[x/o]` marks:
+   - ARTICLE TITLE contains main keyword.
+   - HTML body contains no H1.
    - Main keyword appears in the first 100 words.
    - Main keyword appears in at least one H2.
    - Keyword density is about 1-2%.
@@ -184,11 +188,11 @@ Return exactly these four parts in order:
    - Gutenberg `data-*` removed, when relevant.
    - Meta title is <= 60 characters.
    - Meta description is 140-160 characters.
-   - No extra H1 tags.
+   - No H1 tags in HTML body.
    - `[kna_link]` count and positions.
    - Shortcode labels fit context.
    - Shortcodes are not inside paragraphs, list items, headings, or links.
-4. **CÁC ĐIỀU CHỈNH NGÔN NGỮ**:
+5. **CÁC ĐIỀU CHỈNH NGÔN NGỮ**:
    - For each edit, show position, original text, revised text, and reason.
    - If there are no edits, write: `✅ Không phát hiện lỗi ngôn ngữ cần sửa`.
 

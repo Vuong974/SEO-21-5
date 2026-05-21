@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:knacert.com.vn)",
+      "Bash(python -c ' *)",
+      "PowerShell(echo \"SITE: $env:WORDPRESS_SITE_URL\"; echo \"USER: $env:WORDPRESS_USERNAME\"; if \\($env:WORDPRESS_APP_PASSWORD\\) { echo \"PASS: SET\" } else { echo \"PASS: NOT SET\" })",
+      "Bash(Remove-Item -Path \"e:/SEO-KNA-main/SEO-KNA-main/dist/SEO-KNA-18-5-workspace.zip\" -Force)",
+      "Bash(Remove-Item -Path \"e:/SEO-KNA-main/SEO-KNA-main/tmp_gsc_batches\" -Recurse -Force)",
+      "Bash(Remove-Item -Path \"e:/SEO-KNA-main/SEO-KNA-main/scan_service_679.py\" -Force)",
+      "Bash(Remove-Item -Path \"e:/SEO-KNA-main/SEO-KNA-main/reports/remove_phones_service_backup_20260521-103227.json\" -Force)",
+      "Bash(Remove-Item -Path \"e:/SEO-KNA-main/SEO-KNA-main/sitemap_urls.txt\" -Force)",
+      "PowerShell(Get-ChildItem -Path \"e:/SEO-KNA-main/SEO-KNA-main\" -Exclude \".git\",\".claude\" | Select-Object Name, @{N=\"Size\\(KB\\)\";E={[math]::Round\\($_.Length/1KB,1\\)}}, LastWriteTime | Format-Table -AutoSize)"
+    ]
+  }
+}

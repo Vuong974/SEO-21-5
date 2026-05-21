@@ -1,0 +1,7 @@
+interface:
+  display_name: "Website Proofreader"
+  short_description: "Check website spelling and grammar."
+  default_prompt: "Use $website-proofreader to audit website text for spelling, grammar, punctuation, and wording issues, then report fixes in a table."
+
+policy:
+  allow_implicit_invocation: true
