@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(python create_report.py)",
+      "Bash(python create_report_t4_t5.py)"
+    ]
+  }
+}
