@@ -1,9 +1,17 @@
-# SEO KNA Workspace
+# KNA Work Workspace
 
-Workspace nay chua script, workflow va cac bao cao xu ly SEO/WordPress cho knacert.com.vn.
+Workspace nay chua script, workflow, du lieu va bao cao cho cac nhom cong viec KNA.
+
+Nguyen tac hien tai: giu cac file dang co o vi tri cu de khong lam hong duong dan script, nhung cong viec moi nen dua vao `workstreams/` theo dung muc dich.
 
 ## Cau truc
 
+- `workstreams/`: noi quan ly cac nhom cong viec moi theo muc dich.
+  - `seo/`: SEO, GSC, tu khoa, internal linking, WordPress SEO.
+  - `general-reports/`: bao cao tong hop, KPI, dashboard, bao cao lien phong ban.
+  - `content/`: bai viet, outline, brand/content standard.
+  - `automation/`: workflow tu dong hoa, Google Sheet, WordPress posting.
+  - `shared/`: template, quy uoc, tai nguyen dung chung.
 - `bai-viet-kna/`: skill va huong dan format bai viet KNA.
 - `classify-seo-keywords/`: cong cu/du lieu phan loai tu khoa.
 - `cta-candidates/`: du lieu ung vien CTA.
@@ -24,6 +32,16 @@ Workspace nay chua script, workflow va cac bao cao xu ly SEO/WordPress cho knace
 - `create_keyword_template.py`: tao template phan loai tu khoa.
 - `scan_service_679.py`: script scan service da dung trong dot kiem tra.
 - `*-workflow.md`: tai lieu workflow van hanh.
+
+## Cach dat cong viec moi
+
+- Viec thuoc SEO: tao thu muc/ngay trong `workstreams/seo/`.
+- Viec la bao cao chung: tao thu muc/ngay trong `workstreams/general-reports/`.
+- Viec viet bai/noi dung: tao thu muc/ngay trong `workstreams/content/`.
+- Viec tu dong hoa: tao thu muc/ngay trong `workstreams/automation/`.
+- File co the dung lai cho nhieu viec: dua vao `workstreams/shared/`.
+
+Neu file dang duoc script cu tham chieu, giu nguyen vi tri cu va ghi link/ghi chu trong README cua workstream tuong ung.
 
 ## Luu y
 
